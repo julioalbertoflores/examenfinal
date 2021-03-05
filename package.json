@@ -1,0 +1,19 @@
+{
+  "name": "examen_final",
+  "version": "1.0.0",
+  "description": "mi examen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julioalbertoflores/examenfinal.git"
+  },
+  "author": "julio_flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julioalbertoflores/examenfinal/issues"
+  },
+  "homepage": "https://github.com/julioalbertoflores/examenfinal#readme"
+}
